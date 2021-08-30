@@ -35,37 +35,37 @@ Having spent 7 years with you, unbeleivable journey, you were amazing, our GOTO 
 <style scoped> { font-size:24px;}</style>
 ---
 
-##### you Says:
-####  headline
-message 
+### your name Says:
+####  headline you want to give
+##### your message
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
 
-##### you Says:
-####  headline
-message 
+### your name Says:
+####  headline you want to give
+##### your message
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
 
-##### you Says:
-####  headline
-message 
+### your name Says:
+####  headline you want to give
+##### your message
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
 
-##### you Says:
-####  headline
-message 
+### your name Says:
+####  headline you want to give
+##### your message
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
 
-##### you Says:
-####  headline
-message 
+### your name Says:
+####  headline you want to give
+##### your message
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
