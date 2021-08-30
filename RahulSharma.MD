@@ -25,10 +25,11 @@ footer: "Rahul Sharma Rocks :heart:"
 ---
 ![bg 50% opacity blur](https://avatars.githubusercontent.com/deanjain)
 
-##### Dean Jain Says:
+### Dean Jain Says:
 
 #### Rahul = THE MAN, Right Hand, Mr Dependable !
-Having spent 7 years with you, unbeleivable journey, you were amazing, our GOTO person, Tech Champion, Fast learner, Polite, Super helpful attitude... will miss you a lot, so proud of you and your efforts, keep learning and keep growing !! All the BEST and keep in touch... 
+
+##### Having spent 7 years with you, unbeleivable journey, you were amazing, our GOTO person, Tech Champion, Fast learner, Polite, Super helpful attitude... will miss you a lot, so proud of you and your efforts, keep learning and keep growing !! All the BEST and keep in touch... 
 
 <!-- _class: lead -->
 
@@ -37,7 +38,7 @@ Having spent 7 years with you, unbeleivable journey, you were amazing, our GOTO 
 
 ### Rahul Kumar Says:
 ####  One of the Pillars of our Team
-I only got to know you for 3 months, but It's clear that you are very knowledgeable about all the frameworks and have an attitude to always grow and learn new technologies. I wish you all the best at Salesforce, and I hope you continue learning as you are today.  
+##### I only got to know you for 3 months, but It's clear that you are very knowledgeable about all the frameworks and have an attitude to always grow and learn new technologies. I wish you all the best at Salesforce, and I hope you continue learning as you are today.  
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
