@@ -11,7 +11,7 @@ footer: "Rahul Sharma Rocks :heart:"
 ---
 ![](#012)
 
-![bg opacity 70%](http://img.picturequotes.com/2/542/541515/goodbye-quote-1.jpg)
+![bg opacity 60%](http://img.picturequotes.com/2/542/541515/goodbye-quote-1.jpg)
 
 # <!--fit--> THE MAN ! Rahul Sharma ! THE MACHINE
 
@@ -103,6 +103,9 @@ footer: "Rahul Sharma Rocks :heart:"
 
 ![bg opacity 50%](https://dogtrainingobedienceschool.com/pic/4526090_full-missing-work-colleagues-quotes-goodbye-quotes.jpg)
 
-- ### Thanks so much Rahul again for all your efforts, hardwork and collaboration ! :ok_hand::blush: Keep Rocking !
+<br><br><br><br>
+<br>
+
+### Thanks so much Rahul again for all your efforts, hardwork and collaboration ! :ok_hand::blush: Keep Rocking !
 
  :heart::purple_heart::green_heart::blue_heart:
