@@ -50,9 +50,10 @@ footer: "Rahul Sharma Rocks :heart:"
 <style scoped> { font-size:24px;}</style>
 ---
 
-### your name Says:
-####  headline you want to give
-##### your message
+### Arun Nulu Says:
+####  Calm and Hardworking
+##### It was great working with you Rahul , we will surely miss you , you are a tech champion , calm and composed , ready to help ,apart from all these good friend, All the BEST and keep in touch.
+
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
