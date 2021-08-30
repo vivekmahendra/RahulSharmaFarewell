@@ -35,9 +35,9 @@ Having spent 7 years with you, unbeleivable journey, you were amazing, our GOTO 
 <style scoped> { font-size:24px;}</style>
 ---
 
-### your name Says:
-####  headline you want to give
-##### your message
+### Rahul Kumar Says:
+####  One of the Pillars of our Team
+I only got to know you for 3 months, but It's clear that you are very knowledgeable about all the frameworks and have an attitude to always grow and learn new technologies. I wish you all the best at Salesforce, and I hope you continue learning as you are today.  
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
