@@ -19,7 +19,7 @@ footer: "Rahul Sharma Rocks :heart:"
 <br/><br/>
 <br/><br/>
 
-### BlazeTeam@Amex
+### Team@Amex
 
 <!-- This is presenter note. You can write down notes through HTML comment. -->
 ---
@@ -28,7 +28,7 @@ footer: "Rahul Sharma Rocks :heart:"
 ##### Dean Jain Says:
 
 #### Rahul = THE MAN, Right Hand, Mr Dependable !
-Having spent 7 years with you, unbeleivable journey, you were amazing, our GOTO person, Tech Champion, Fast learner, Polite, Super helpful attitude... will miss you a lot, so proud of you and your efforts, keep learning and keep growing !! constantly keep in touch... 
+Having spent 7 years with you, unbeleivable journey, you were amazing, our GOTO person, Tech Champion, Fast learner, Polite, Super helpful attitude... will miss you a lot, so proud of you and your efforts, keep learning and keep growing !! All the BEST and keep in touch... 
 
 <!-- _class: lead -->
 
@@ -102,6 +102,6 @@ message
 
 ![bg opacity 50%](https://dogtrainingobedienceschool.com/pic/4526090_full-missing-work-colleagues-quotes-goodbye-quotes.jpg)
 
-- ### Thanks so much Rahu again for all your efforts, hardwork and team work ! :ok_hand::blush: Keep Rocking !
+- ### Thanks so much Rahul again for all your efforts, hardwork and collaboration ! :ok_hand::blush: Keep Rocking !
 
  :heart::purple_heart::green_heart::blue_heart:
