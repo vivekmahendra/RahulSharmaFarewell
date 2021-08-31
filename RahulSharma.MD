@@ -58,9 +58,9 @@ footer: "Rahul Sharma Rocks :heart:"
 <style scoped> { font-size:24px;}</style>
 ---
 
-### your name Says:
-####  headline you want to give
-##### your message
+### Md Tamim Mandal:
+####  Problem Solver
+##### I used to think I know coding very well untill I worked with you :D.Working with you made me realize there is no end to learning and we can always improve on things :).Working with you was a great learning opportunity for me.Thank you and keep up your good work and stay in touch.Once again,all the very best for your future endeavors...  
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
