@@ -65,9 +65,9 @@ footer: "Rahul Sharma Rocks :heart:"
 <style scoped> { font-size:24px;}</style>
 ---
 
-### your name Says:
-####  headline you want to give
-##### your message
+### Mayank Sharma Says:
+####  The Humble Professor
+##### It is always great to be part of your sessions. I am sure everyone appreciates the level of patience and humility with which you explain and take the questions. Thank you!!
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
