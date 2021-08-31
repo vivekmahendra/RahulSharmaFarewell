@@ -27,7 +27,7 @@ footer: "Rahul Sharma Rocks :heart:"
 
 ### Dean Jain Says:
 
-#### Rahul = THE MAN, Right Hand, Mr Dependable !
+#### Rahul = The MAN, Right Hand, Mr Dependable !
 
 ##### Having spent 7 years with you, unbeleivable journey, you were amazing, our GOTO person, Tech Champion, Fast learner, Polite, Super helpful attitude... will miss you a lot, so proud of you and your efforts, keep learning and keep growing !! All the BEST and keep in touch... 
 
@@ -60,7 +60,7 @@ footer: "Rahul Sharma Rocks :heart:"
 
 ### Md Tamim Mandal:
 ####  Problem Solver
-##### I used to think I know coding very well untill I worked with you :D.Working with you made me realize there is no end to learning and we can always improve on things :).Working with you was a great learning opportunity for me.Thank you and keep up your good work and stay in touch.Once again,all the very best for your future endeavors...  
+##### I used to think I know coding very well untill I worked with you :D Working with you made me realize there is no end to learning and we can always improve on things :).Working with you was a great learning opportunity for me.Thank you and keep up your good work and stay in touch.Once again,all the very best for your future endeavors...  
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
