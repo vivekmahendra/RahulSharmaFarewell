@@ -72,16 +72,16 @@ footer: "Rahul Sharma Rocks :heart:"
 <style scoped> { font-size:24px;}</style>
 ---
 
-### Ruchika Dakalia Says:
-####  Mr. Dependable
-##### An amazingly talented hard working guy which is truly inspirational. Be the way you are. Every success in your life is truly deserved. All the best for your future and do keep in touch
+### Sarmin Begam:
+####  Blazing performer and most knowlagable lead team can ask for
+##### I’ve learned so much from you. You will be an inspiration for me always. Thank you for everything you’ve done. You were a great lead and your hard work will be missed.  Wish you the best of luck and continued success wherever you may find yourself.
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
 
-### your name Says:
-####  headline you want to give
-##### your message
+### Ruchika Dakalia Says:
+####  Mr. Dependable
+##### An amazingly talented hard working guy which is truly inspirational. Be the way you are. Every success in your life is truly deserved. All the best for your future and do keep in touch
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
