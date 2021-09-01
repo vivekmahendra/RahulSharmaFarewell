@@ -99,6 +99,14 @@ footer: "Rahul Sharma Rocks :heart:"
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
+
+### Param Says:
+####  Definition for a Discipline 
+##### You are very good Friend, Colleague, Mentor, Engineer, Philosopher that only very lucky ones get a chance to work with you. 
+<!-- _class: lead -->
+<style scoped> { font-size:24px;}</style>
+---
+
 ![bg](#123)
 ![](#fff)
 
