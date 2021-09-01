@@ -45,7 +45,7 @@ footer: "Rahul Sharma Rocks :heart:"
 
 ### Edwin Hung Says:
 ####  Calm and Intelligent one
-##### For the few months I get to be your colleague.  You set a good role model for other developers to follow.  Calmed and collected alawyas be there for your teammates. Thank you for all the things that you have done for the team and me.  Enjoy your journey and keep in touch!
+##### For the few months I get to be your colleague.  You set a good role model for other developers to follow.  Calmed and collected always be there for your team mates. Thank you for all the things that you have done for the team and me.  Enjoy your journey and keep in touch!
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
