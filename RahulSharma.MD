@@ -79,9 +79,9 @@ footer: "Rahul Sharma Rocks :heart:"
 <style scoped> { font-size:24px;}</style>
 ---
 
-### your name Says:
-####  headline you want to give
-##### your message
+### Ruchika Dakalia Says:
+####  Mr. Dependable
+##### An amazingly talented hard working guy which is truly inspirational. Be the way you are. Every success in your life is truly deserved. All the best for your future and do keep in touch
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
