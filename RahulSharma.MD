@@ -114,6 +114,10 @@ footer: "Rahul Sharma Rocks :heart:"
 <style scoped> { font-size:24px;}</style>
 ---
 
+### Vivek Says:
+#### A Pillar of the Team
+##### One of the the best engineers I have had the opportunity to work with in my career. Not only a great developer, but a great teacher; your calm disposition made understanding new topics and frameworks feel simple and unintimidating. Best of luck to you at Salesforce!
+
 ![bg](#123)
 ![](#fff)
 
