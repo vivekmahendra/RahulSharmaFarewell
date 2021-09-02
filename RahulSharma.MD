@@ -35,7 +35,7 @@ footer: "Rahul Sharma Rocks :heart:"
 
 <style scoped> { font-size:24px;}</style>
 ---
-![bg 80% opacity blur](https://cdn2.hubspot.net/hubfs/53/00-Blog_Thinkstock_Images/what-is-a-pillar-page-seo.png)
+![bg 80% opacity ](https://cdn2.hubspot.net/hubfs/53/00-Blog_Thinkstock_Images/what-is-a-pillar-page-seo.png)
 
 ### Rahul Kumar Says:
 ####  One of the Pillars of our Team
@@ -43,7 +43,7 @@ footer: "Rahul Sharma Rocks :heart:"
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
-![bg 80% opacity blur](https://images.unsplash.com/photo-1499810631641-541e76d678a2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80)
+![bg 80% opacity ](https://images.unsplash.com/photo-1499810631641-541e76d678a2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80)
 
 ### Edwin Hung Says:
 ####  Calm and Intelligent one
@@ -52,7 +52,7 @@ footer: "Rahul Sharma Rocks :heart:"
 <style scoped> { font-size:24px;}</style>
 ---
 
-![bg 80% opacity blur](https://stickybranding.com/wp-content/uploads/2010/05/smart-dedicated-hardworking.jpg)
+![bg 80% opacity ](https://stickybranding.com/wp-content/uploads/2010/05/smart-dedicated-hardworking.jpg)
 
 ### Arun Nulu Says:
 ####  Calm and Hardworking
@@ -69,14 +69,14 @@ footer: "Rahul Sharma Rocks :heart:"
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
-![bg 80% opacity blur](https://st2.depositphotos.com/1173077/9002/i/950/depositphotos_90029262-stock-photo-morning-pray-at-beautiful-landscape.jpg)
+![bg 80% opacity ](https://st2.depositphotos.com/1173077/9002/i/950/depositphotos_90029262-stock-photo-morning-pray-at-beautiful-landscape.jpg)
 ### Mayank Sharma Says:
 ####  The Humble Professor
 ##### It is always great to be part of your sessions. I am sure everyone appreciates the level of patience and humility with which you explain and take the questions. Thank you!!
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
-![bg 80% opacity blur](https://www.wikihow.com/images/thumb/9/96/Be-Knowledgeable-Step-1-Version-3.jpg/aid161148-v4-728px-Be-Knowledgeable-Step-1-Version-3.jpg.webp)
+![bg 80% opacity ](https://www.wikihow.com/images/thumb/9/96/Be-Knowledgeable-Step-1-Version-3.jpg/aid161148-v4-728px-Be-Knowledgeable-Step-1-Version-3.jpg.webp)
 ### Sarmin Begam:
 ####  Blazing performer and most knowlagable lead team can ask for
 ##### I’ve learned so much from you. You will be an inspiration for me always. Thank you for everything you’ve done. You were a great lead and your hard work will be missed.  Wish you the best of luck and continued success wherever you may find yourself.
@@ -90,7 +90,7 @@ footer: "Rahul Sharma Rocks :heart:"
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
-![bg 80% opacity blur](https://assets.entrepreneur.com/content/3x2/2000/20190812184546-GettyImages-1009803562.jpeg)
+![bg 80% opacity ](https://assets.entrepreneur.com/content/3x2/2000/20190812184546-GettyImages-1009803562.jpeg)
 ### Poornima Says:
 #### Missing a great Pillar to the Team 
 ##### You are a talented, multi tasker and hard working guy. Its a great learning working with you and you are really a source of inspiration for me. Wish you all the best for your future endeavours and do keep in touch.  
@@ -111,21 +111,21 @@ footer: "Rahul Sharma Rocks :heart:"
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
-![bg 80% opacity blur](http://www.selfvirtue.com/wp-content/uploads/2017/03/superhero-costumes-for-men.jpg)
+![bg 80% opacity ](http://www.selfvirtue.com/wp-content/uploads/2017/03/superhero-costumes-for-men.jpg)
 ### Kanhaiya Kumar Says:
 ####  Mr. Goto Person
 ##### You are amazing, A great guide, Tech Guru with high level of patience. you made me to learn that you can be calm composed and focused on your assginment and Goal. Very open to give/take feedbacks. Working with you was always great priveledge and hope our lines crosses soon. Wish you the best of luck for your continued success journey. :-)
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
-![bg 80% opacity blur](https://www.fght.org/wp-content/uploads/2013/01/Stronghold.jpg)
+![bg 80% opacity ](https://www.fght.org/wp-content/uploads/2013/01/Stronghold.jpg)
 ### Vivek Says:
 #### A Pillar of the Team
 ##### One of the the best engineers I have had the opportunity to work with in my career. Not only a great developer, but a great teacher; your calm disposition made understanding new topics and frameworks feel simple and unintimidating. Best of luck to you at Salesforce!
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
-![bg 80% opacity blur](https://miro.medium.com/max/2880/1*a911Z2_Di2fK7z7Qfg5r_A.jpeg)
+![bg 80% opacity ](https://miro.medium.com/max/2880/1*a911Z2_Di2fK7z7Qfg5r_A.jpeg)
 ### Veena Manohar Says:
 #### Perfectionist and Resolver
 ##### you are just perfect in all aspects like in resolving issues,managing the team,maintainting the business contacts and among all your superb in consistent learning! Your are great inspiration to us! All the very best for your future successful journey in different path. :)
