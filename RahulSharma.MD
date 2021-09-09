@@ -131,6 +131,7 @@ footer: "Rahul Sharma Rocks :heart:"
 ##### you are just perfect in all aspects like in resolving issues,managing the team,maintainting the business contacts and among all your superb in consistent learning! Your are great inspiration to us! All the very best for your future successful journey in different path. :)
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
+
 ---
 ![bg 80% opacity ](https://cdp.azureedge.net/products-private/prod/b85c66d2-a7e7-45eb-b7ad-cb74fbc7d77f/e84411b3-3c44-43d0-a7be-ac7901602bfa/00000000-0000-0000-0000-000000000000/9986bbaa-ce48-4289-8b3c-ac6f0029acec/2ac41368-60ae-4b50-a7cc-ad6400fc8e20/6000000001.jpg)
 ### Mike Franzen Says:
