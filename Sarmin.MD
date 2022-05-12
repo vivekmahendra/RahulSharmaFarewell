@@ -13,7 +13,7 @@ footer: "Sarmin Rocks :heart:"
 
 ![bg opacity 60%](http://img.picturequotes.com/2/542/541515/goodbye-quote-1.jpg)
 
-# <!--fit--> Woman Who Code ! Sarmin ! Geek
+# <!--fit--> Woman Who Code ! **Sarmin** ! The Geek
 
 <br /> <br />
 <br/><br/>
@@ -27,9 +27,9 @@ footer: "Sarmin Rocks :heart:"
 
 ### Dean Jain Says:
 
-#### Sarmin = The Gateway of our Team !!
+#### Sarmin = The Gateway of Team !!
 
-##### Having spent 5 years with you, Wonder Woman, Fast learner, Polite, Super helpful attitude... will miss you a lot, proud of you and your efforts, keep learning and keep growing !! All the BEST and keep in touch... 
+##### Having spent 5+ years with you, Wonder woman, Fast learner, Polite, Super helpful attitude... Java/Spring/Kafka Champion, will miss you a lot, proud of you and your efforts, keep learning and keep growing !! THANKS SO MUCH for everything... All the BEST and keep in touch.
 
 <!-- _class: lead -->
 
