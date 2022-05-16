@@ -89,8 +89,9 @@ footer: "Sarmin Rocks :heart:"
 ![bg 80% opacity blur](https://www.franksonnenbergonline.com/wp-content/uploads/2021/04/image_how-to-prove-that-youre-dependable.jpg)
 
 ### Ruchika Dakalia Says:
-####  
-##### 
+####  A superb human being!
+##### You are a dear friend for life. Can't try but stop myself from being emotional about you leaving. You are the most helpful person I have ever met...as a woman I have always felt proud seeing you succeed and be the best in whatever you put yourself in. Be the way you are and wish you the best in all your endeavors. Will be definitely be in touch!
+
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
