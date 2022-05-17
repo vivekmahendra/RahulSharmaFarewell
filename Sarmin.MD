@@ -57,7 +57,7 @@ footer: "Sarmin Rocks :heart:"
 
 ### Arun Nulu Says:
 ####  Great Team Player , Tech Geek and Good Friend.
-##### It was great working with you Sarmin , I remember how many extended hours we worked together to deliver key capabiliites , you never complained . Your passion towards work and dedication always suprises me.You are always approchable and ready to help.Keep rocking and be in touch
+##### It was great working with you Sarmin , I remember how many extended hours we worked together to deliver key capabilities , you never complained . Your passion towards work and dedication always surprises me.You are always approachable and ready to help. Keep rocking and be in touch
 
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
@@ -66,17 +66,10 @@ footer: "Sarmin Rocks :heart:"
 
 ### Md Tamim Mandal:
 #### A Good Colleague and Friend! 
-##### It was a wonderful time working with you for more than 3 years.As a coworker I wish to work with you again and apprecite your quality of work,hardwork and super helpful nature.Keep positively impacting others around with your humble attitude and appreciative nature.All the very best for your new role Sarmin... :)   
+##### It was a wonderful time working with you for more than 3 years.As a coworker I wish to work with you again and appreciate your quality of work, hardwork and super helpful nature. Keep positively impacting others around with your humble attitude and appreciative nature. All the very best for your new role Sarmin... :)   
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
----
-![bg 80% opacity ](https://st2.depositphotos.com/1173077/9002/i/950/depositphotos_90029262-stock-photo-morning-pray-at-beautiful-landscape.jpg)
 
-### Mayank Sharma Says:
-####  
-##### 
-<!-- _class: lead -->
-<style scoped> { font-size:24px;}</style>
 ---
 ![bg 80% opacity ](https://www.wikihow.com/images/thumb/9/96/Be-Knowledgeable-Step-1-Version-3.jpg/aid161148-v4-728px-Be-Knowledgeable-Step-1-Version-3.jpg.webp)
 
@@ -113,7 +106,7 @@ footer: "Sarmin Rocks :heart:"
 ---
 ![bg 80% opacity blur](https://www.stevenswonderblogs.com/wp-content/uploads/2018/12/discipline-300x300.jpg)
 
-### Param Says:
+### Param N Says:
 ####  Sarmin = (GRS) Gateway Respects Sarmin !
 ##### It was really nice working with you Sarmin ! You are a very good Leader, Colleague, Friend, Mentor and Awesome Person. You are one of the examples for one can work on multiple things and can know everything better.
 
@@ -147,7 +140,7 @@ footer: "Sarmin Rocks :heart:"
 ---
 ![bg 80% opacity ](https://cdp.azureedge.net/products-private/prod/b85c66d2-a7e7-45eb-b7ad-cb74fbc7d77f/e84411b3-3c44-43d0-a7be-ac7901602bfa/00000000-0000-0000-0000-000000000000/9986bbaa-ce48-4289-8b3c-ac6f0029acec/2ac41368-60ae-4b50-a7cc-ad6400fc8e20/6000000001.jpg)
 
-### Says:
+### :
 #### 
 ##### 
 <!-- _class: lead -->
