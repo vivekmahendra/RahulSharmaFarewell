@@ -124,8 +124,8 @@ footer: "Sarmin Rocks :heart:"
 ![bg 80% opacity ](https://www.fght.org/wp-content/uploads/2013/01/Stronghold.jpg)
 
 ### Vivek Says:
-#### 
-##### 
+#### Amazing Colleague, GRS expert 
+##### It was great working with you these past few years. You are a great colleague and were always very helpful and kind. Best of luck in your new role, you will definitely be missed from the team!
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
